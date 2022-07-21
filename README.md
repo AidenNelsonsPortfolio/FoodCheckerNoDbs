@@ -6,4 +6,6 @@ Built in Python 3.9 with PyCharm IDE.
 Adds additional support and QOL updates to do with re-checking labels and displaying proper information only for provided label.
 
 Author: Aiden Nelson
+
+
 Date of Last Edit: 7/21/2022
